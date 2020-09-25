@@ -1,9 +1,9 @@
 ## kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
-*By analyzing these campaigns and multiple factors such as creation dates, set goals and demographics, we uncovered great details to maximize a campaign's success and ensure the fundraiser goal is met.*
+*By analyzing these campaigns and multiple factors such as creation dates, set goals and demographics, we uncovered great details to maximize a campaign's success and ensure the fundraiser goal is met. This Analysis will focus on fundraisers for Theater and Plays*
 
-#### ***Statistical Analysis Results***
+#### ***Statistical Analysis***
 
 *In the Kickstarter_Challenge.xlsx you will be able to appreciate how the optimal period of time to launch a Kickstarter Campaign is during Q2, in particular during May where the success rate is 67% (8% over vs the rest of the year's average in Q1 and Q3)*
 
@@ -23,8 +23,10 @@ Performing analysis on Kickstarter data to uncover trends
 *While considering different factors, we also focused on the funding goal impacts and how different ranges could contribute to the success or failure of each campaign.*
 
 - 73% of all fundraisers equal or less than $4999 achieved the goals set
-- 55% of campaigns with a set goal between $5000 - $9999 were successful
     - Success rates continue decreasing when paired with higher funding goals
+    
+*It is important to note that there were some limitations as far as the data timeline (data provided ranges from 2010 through 2017) as well as an in-depth breakdown of Genres and targeted audiences to ensure  the analysis had supporting data that your play would be well received and promoted to achieve the goal in a shorter period*
+    
 #### ***Recommendations***
 
 *to maximize the success of any future fundraiser, please consider the following:*
