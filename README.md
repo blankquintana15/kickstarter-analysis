@@ -10,13 +10,13 @@ Performing analysis on Kickstarter data to uncover trends
 - May 67% Success rate
 - June 65% Success rate
 
+![image_name](https://github.com/blankquintana15/kickstarter-analysis/blob/master/Resources/Theather_Outcomes_vs_Launch.png)
+
 *On the other hand, October and December are not recommended months to start a fundraiser due to the increase of failed campaigns during these months exceeding the yearly average*
 
 - October 43% Failure rate
 - December 46% Failure rate
 - January 7% Cancelation rate vs 2% average during the rest of the year
-
-*You can have a Month over Month view of these trends in the charts provided*
 
 #### ***Correlation of funding goal vs success rate***
 
@@ -24,6 +24,8 @@ Performing analysis on Kickstarter data to uncover trends
 
 - 73% of all fundraisers equal or less than $4999 achieved the goals set
     - Success rates continue decreasing when paired with higher funding goals
+    
+![image_name](https://github.com/blankquintana15/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png) 
     
 *It is important to note that there were some limitations as far as the data timeline (data provided ranges from 2010 through 2017) as well as an in-depth breakdown of Genres and targeted audiences to ensure  the analysis had supporting data that your play would be well received and promoted to achieve the goal in a shorter period*
     
